@@ -1,3 +1,5 @@
+package week1lecture
+
 fun main() {
     println("Enter first number: ")
     val firstInput = readln()

@@ -1,3 +1,5 @@
+package week1lecture
+
 fun main() {
     println("Enter season (spring/summer/autumn/winter):")
     val input = readln().lowercase()
